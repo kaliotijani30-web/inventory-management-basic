@@ -1,0 +1,22 @@
+# Feature: Stock Receiving and Storage Tracking
+
+## Short Description
+
+Stock Receiving and Storage Tracking is a core store-keeping feature used to record goods when they arrive at a store and track where those goods are stored. It helps ensure that received inventory is properly identified, counted, and placed in the correct storage location.
+
+## Purpose
+
+The purpose of stock receiving and storage tracking is to maintain accurate records of incoming inventory and make it easy for store personnel to know what was received, how much was received, and where each item is stored.
+
+## Main Functions/Activities
+
+- Record incoming stock when goods are delivered.
+- Verify the quantity of items received against the order or delivery document.
+- Identify received items using their SKU or product code.
+- Record the date and source of the stock received.
+- Assign items to appropriate storage locations, shelves, bins, or sections.
+- Update inventory quantities after stock is received.
+- Record damaged, missing, or incorrect items discovered during receiving.
+- Track the movement of items between storage locations.
+- Provide information about the current storage location of an item.
+- Maintain records of stock received for future reference and auditing.

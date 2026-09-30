@@ -1,0 +1,21 @@
+# Feature: SKU Creation and Management
+
+## Short Description
+
+SKU (Stock Keeping Unit) Creation and Management is a feature used to give each inventory item a unique identification code. The SKU helps the store identify, organize, and track individual products efficiently.
+
+## Purpose
+
+The purpose of SKU management is to provide a consistent and unique way of identifying products in a store. It makes it easier to locate items, monitor stock levels, record transactions, and distinguish between products that may have similar names or descriptions.
+
+## Main Functions/Activities
+
+- Create unique SKU codes for new products.
+- Assign SKUs based on product characteristics such as product type, brand, size, color, or model.
+- Store important product information such as product name, description, category, and unit of measurement.
+- Edit or update product information when necessary.
+- Search for products using their SKU or other identifying information.
+- Prevent duplicate SKU codes.
+- Deactivate or archive SKUs for discontinued products.
+- Link SKUs to stock quantities and inventory transactions.
+- Organize products into categories for easier management.

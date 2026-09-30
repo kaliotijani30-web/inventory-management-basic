@@ -1,0 +1,22 @@
+Stock Quantity Tracking
+
+Feature Name
+
+Stock Quantity Tracking
+
+Short Description
+
+This feature keeps track of the quantity of each inventory item available in the store. It records changes in stock whenever products are received, sold, or removed.
+
+Purpose
+
+The purpose of this feature is to maintain accurate information about the number of items available and help prevent stock shortages or incorrect inventory records.
+
+Main Functions/Activities
+
+- Record the current quantity of each inventory item.
+- Increase stock quantities when new items are received.
+- Decrease stock quantities when items are sold or removed.
+- Display the available quantity for each SKU.
+- Identify items that are running low.
+- Keep inventory quantities updated and accurate.
